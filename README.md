@@ -1,6 +1,6 @@
 # **Weather App (Jetpack Compose)**
 
-![photo](https://i.ibb.co/4jbzBBZ/weatherappphoto.png)
+![photo](https://i.ibb.co/x3kxM0r/Group-68.png)
 
 ___
 This project is designed to learn the basic syntax of Jetpack Compose
